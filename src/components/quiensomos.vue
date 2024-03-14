@@ -10,7 +10,7 @@
               </div>
               <div class="flex-1/2 w-full h-full pt-4" >
                 <div class="flex justify-end">
-                    <img src="../assets/yo5.png" alt="" class="self-end transition duration-300 transform hover:rotate-45 hover:scale-125  ">
+                    <img src="../assets/yo5.png" alt="juanMiguel" class="self-end transition duration-300 transform hover:rotate-45 hover:scale-125  ">
                 </div>
 
               </div>

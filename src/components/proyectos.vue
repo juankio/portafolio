@@ -16,7 +16,7 @@
                         <h2 class='text-white font-bold text-2xl'>Recetas de Bebidas</h2>
                         <p class='text-white'>Explora nuestra variedad de recetas de bebidas</p>
                       </div>
-                      <img class='z-0 object-cover w-full h-full absolute opacity-50' src="../assets/proyec-1.png"/>
+                      <img class='z-0 object-cover w-full h-full absolute opacity-50' src="../assets/proyec-1.png" alt="proyecto1"/>
                     </div>
 
                   <div class="col-span-2 rounded-lg relative overflow-hidden flex flex-col border-2 border-solid border-white ">
@@ -33,7 +33,7 @@
                         <h2 class='text-white font-bold text-2xl'>Tienda de Guitarras</h2>
                         <p class='text-white'>Explora nuestro catálogo de guitarras</p>
                       </div>
-                      <img class='z-0 object-cover w-full h-full absolute opacity-50' src="../assets/proyec-2.png"/>
+                      <img class='z-0 object-cover w-full h-full absolute opacity-50' src="../assets/proyec-2.png" alt="proyecto2"/>
                     </div>
                     
                   <div class="col-span-2 rounded-lg relative overflow-hidden flex flex-col border-2 border-solid border-white ">
@@ -51,7 +51,7 @@
                         <p class='text-white'>Una página para el agendamiento y seguimiento de pacientes mascotas</p>
 
                       </div>
-                      <img class='z-0 object-cover w-full h-full absolute opacity-50' src="../assets/proyec-3.png"/>
+                      <img class='z-0 object-cover w-full h-full absolute opacity-50' src="../assets/proyec-3.png" alt="proyecto3"/>
                     </div>
               </div>
               </div>

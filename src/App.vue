@@ -2,16 +2,13 @@
     <div class="container mx-auto mt-8">
       <h1 class="text-2xl lg:text-6xl text-center font-extrabold text-white mb-8">Explora Mi Portafolio</h1>
       <div class="grid grid-cols-1 gap-8 p-10 md:grid-cols-2 lg:grid-cols-3 mx-auto">
-        <!-- En pantallas medianas y grandes -->
         <div v-if="!tamano" class="bg-app bg-cover text-white p-3 rounded-lg shadow-md flex col-span-2 border-4 border-solid border-white">
           <quiensomos />
         </div>
-        <!-- En pantallas pequeñas -->
         <div v-else class="bg-app bg-cover text-white p-3 rounded-lg shadow-md border-4 border-solid border-white">
           <quiensomos />
         </div>
         
-        <!-- Los otros elementos aquí -->
   
         <div class="bg-app bg-cover text-white p-3 rounded-lg shadow-md border-4 border-solid border-white">
           <habilidades/>

@@ -29,7 +29,7 @@
                   </div>
                   <div class="flex justify-between items-center mb-4">
                     <div>
-                        <img class="ui fluid image " src="../assets/logos/tailwind-css.webp" width="40px" height="50px">
+                        <img class="ui fluid image " src="../assets/logos/tailwind-css.webp" alt="iconoTaiwild" width="40px" height="50px">
                     </div>
 
                       <span class="text-base font-medium text-white dark:text-white uppercase">Tailwind </span>
@@ -78,7 +78,7 @@
                   </div>
                   <div class="flex justify-between items-center mb-4">
                     <div>
-                        <img class="ui fluid image" src="../assets/logos/mongo.svg" width="40px" height="50px">
+                        <img class="ui fluid image" src="../assets/logos/mongo.svg" alt="iconoMongo" width="40px" height="50px">
                     </div>
 
                       <span class="text-base font-medium text-white dark:text-white uppercase">Mongo DB</span>
